@@ -32,7 +32,7 @@ int main()
         for(int j = 1; j <= columns; j++)
         {
            //printf("%d %d", rows, columns);
-           printf("\n%c", symbol);
+           printf("%c\n", symbol);
         }
         printf("\n");
     }
